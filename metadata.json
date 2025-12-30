@@ -1,0 +1,8 @@
+{
+  "name": "Tratatudo.pt",
+  "description": "A comprehensive immigration services app for Portugal, featuring real-time process tracking, document management, and an AI-powered legal assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
